@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nutritrack</string>
+    <string name="title_activity_login_screen">LoginActivity</string>
+    <string name="title_activity_food_intake_questionnaire">QuestionnaireActivity</string>
+    <string name="title_activity_persona_information_modal">PersonaInformationModal</string>
+    <string name="title_activity_home_screen">HomeActivity</string>
+    <string name="title_activity_insights_screen">InsightsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings_screen">SettingsActivity</string>
+    <string name="title_activity_nutricoach_screen">NutricoachActivity</string>
+    <string name="title_activity_clinician_screen">ClinicianActivity</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Generate a short encouraging message to help someone improve their fruit intake.</string>
+    <string name="results_placeholder">(Click the Button Above and a Motivational Message will appear here)</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+</resources>
