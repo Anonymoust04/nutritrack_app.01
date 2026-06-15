@@ -22,7 +22,7 @@ class ClinicianRepository(context :Context) {
     }
 
     private val generativeModel = GenerativeModel(
-        modelName = "gemini-1.5-flash",
+        modelName = "gemini-2.5-flash-lite",
         apiKey = BuildConfig.apiKey
     )
 
